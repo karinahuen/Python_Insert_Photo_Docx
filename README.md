@@ -9,3 +9,7 @@ Step:
 2. Select Folder which includes a photo that you would like to insert into a document.
 3. Find your doc file according to your selected folder path.
 
+In addition, you can modify the "insert_file.py" for further development.
+
+Please follow the link below about how to create an executable of Python Script for your reference:
+https://datatofish.com/executable-pyinstaller/
