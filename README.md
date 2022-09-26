@@ -30,6 +30,6 @@ Create the Executable with pyinstaller
 ```
 pyinstaller --onefile <your filename>.py
 ```
-Finally, you'll see the executable file in **dist** folder.
+Finally, you'll see the executable file in "**dist**" folder.
 
 :+1: Good Luck!~
