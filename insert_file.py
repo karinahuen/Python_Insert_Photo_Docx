@@ -18,7 +18,7 @@ tcol = 2
 
 document = Document()
 table = document.add_table(rows=trow, cols=tcol)
-#------Loads Photo Path----------
+#------Load Photo Path----------
 import cv2
 import os
 import numpy as np
