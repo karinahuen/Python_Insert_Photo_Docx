@@ -24,7 +24,7 @@ import os
 import numpy as np
 images = []
 
-#--Table Headedfr--
+#--Table Header--
 header_column_cells = table.add_row().cells
 header_img = header_column_cells[0].paragraphs[0]
 header_img_run = header_img.add_run()
